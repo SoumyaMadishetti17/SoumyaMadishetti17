@@ -14,7 +14,7 @@
 - 🔍 Focused on building **scalable systems**, not just code
 - 🛠 Currently working on: `QuizQuest` – An **adaptive quiz platform** with AI + MERN
 - 💬 Ask me about: React, Node.js, Express, MongoDB, Firebase, Problem Solving, Automation
-- 📫 Reach me at: **soumya.dev.inbox@gmail.com**
+- 📫 Reach me at: **soumyamadishettimsd17@gmail.com**
 
 ---
 
