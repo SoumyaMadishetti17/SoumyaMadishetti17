@@ -39,9 +39,7 @@
 📌 **Projects I've Built**
 
 - 🤖 [**AI-Based Blog App**](https://github.com/SoumyaMadishetti17/-AI-Powered-Blog-App) – Generate intelligent, SEO-friendly blog content using AI prompts and topic expansion  
-- 📰 [**AI News Generator**](https://github.com/SoumyaMadishetti17/News-Generator-app) – Real-time news app that summarizes current affairs using NLP  
-- 🧠 [**My Gemini – Mini ChatGPT**](https://github.com/SoumyaMadishetti17/my-gemini-chatbot) – Lightweight chatbot using OpenAI APIs trained for smart responses  
-- 🛒 [**E-commerce App**](https://github.com/SoumyaMadishetti17/mern-ecommerce-app) – Full-featured MERN-based shopping platform with auth, cart, checkout, admin dashboard  
+- 📰 [**AI News Generator**](https://github.com/SoumyaMadishetti17/News-Generator-app) – Real-time news app that summarizes current affairs using NLP    
 - 🏨 [**Hotel Booking Platform**]((https://github.com/SoumyaMadishetti17/Destinify)) – Responsive hotel booking system with filters, date picker, and payment integration  
 
 ---
