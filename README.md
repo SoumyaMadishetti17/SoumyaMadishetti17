@@ -15,6 +15,8 @@
 - 🛠 Currently working on: `QuizQuest` – An **adaptive quiz platform** with AI + MERN
 - 💬 Ask me about: React, Node.js, Express, MongoDB, Firebase, Problem Solving, Automation
 - 📫 Reach me at: **soumyamadishettimsd17@gmail.com**
+- 📫 Reach me at: **https://www.linkedin.com/in/soumyamadishetti/**
+  
 
 ---
 
@@ -38,7 +40,7 @@
 
 📌 **Projects I've Built**
 
-- 🤖 **[AI-Based Blog App](#)** – Write intelligent, SEO-friendly blog content using AI prompts and topic expansion  
+- 🤖 **[AI-Based Blog App](#)** – Write intelligent, SEO-friendly blog content using AI prompts and topic expansion
 - 📰 **[AI News Generator](#)** – Real-time news app that generates and summarizes current affairs using NLP  
 - 🧠 **[My Gemini – Mini ChatGPT](#)** – A lightweight chatbot using OpenAI APIs trained to answer smartly like ChatGPT  
 - 🛒 **[E-commerce App](#)** – Full-featured MERN-based shopping platform with auth, cart, checkout, admin dashboard  
