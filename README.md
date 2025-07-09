@@ -39,8 +39,8 @@
 📌 **Projects I've Built**
 
 - 🤖 [**AI-Based Blog App**](https://github.com/SoumyaMadishetti17/-AI-Powered-Blog-App) – Generate intelligent, SEO-friendly blog content using AI prompts and topic expansion  
-- 📰 [**AI News Generator**](https://github.com/SoumyaMadishetti17/News-Generator-app) – Real-time news app that summarizes current affairs using NLP    
-- 🏨 [**Hotel Booking Platform**]((https://github.com/SoumyaMadishetti17/Destinify)) – Responsive hotel booking system with filters, date picker, and payment integration  
+- 📰 [**AI News Generator**](https://github.com/SoumyaMadishetti17/News-Generator-app) – Real-time news app that summarizes current affairs using NLP  
+- 🏨 [**Hotel Booking Platform**](https://github.com/SoumyaMadishetti17/Destinify) – Responsive hotel booking system with filters, date picker, and payment integration  
 
 ---
 
