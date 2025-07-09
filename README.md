@@ -15,8 +15,7 @@
 - 🛠 Currently working on: `QuizQuest` – An **adaptive quiz platform** with AI + MERN
 - 💬 Ask me about: React, Node.js, Express, MongoDB, Firebase, Problem Solving, Automation
 - 📫 Reach me at: **soumyamadishettimsd17@gmail.com**
-- 📫 Reach me at: **https://www.linkedin.com/in/soumyamadishetti/**
-  
+- 🌐 Connect: [**LinkedIn Profile**](https://www.linkedin.com/in/soumyamadishetti/)  
 
 ---
 
